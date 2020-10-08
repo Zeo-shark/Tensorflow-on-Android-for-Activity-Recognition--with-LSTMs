@@ -11,3 +11,8 @@ Interested in deeper understanding of Machine Learning algorithms? Implement the
 </a>
 
 <a href="https://leanpub.com/hmls" target="_blank">Read the book here</a>
+
+Installation and Setup:
+1. Clone this repository using [https://github.com/Zeo-shark/Tensorflow-on-Android-for-Activity-Recognition--with-LSTMs.git](https://github.com/Zeo-shark/Tensorflow-on-Android-for-Activity-Recognition--with-LSTMs.git).
+2. cd Tensorflow-on-Android-for-Activity-Recognition--with-LSTMs.
+3. cd AndroidApp.
