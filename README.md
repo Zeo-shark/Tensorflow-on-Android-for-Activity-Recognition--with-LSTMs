@@ -1,4 +1,4 @@
-# TensorFlow on Android for Human Activity Recognition with LSTMs
+# Android App for Human Activity Recognition with LSTMs using TfLite
 
 Full explanation can be found in [this blog post](https://www.curiousily.com/posts/human-activity-recognition-using-lstms-on-android/). The source code is compatible with TensorFlow 1.1
 
